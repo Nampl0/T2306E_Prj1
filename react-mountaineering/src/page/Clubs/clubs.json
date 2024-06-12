@@ -1,0 +1,68 @@
+[
+    {
+        "pic" : "/clubs/intro/aac.jpeg",
+        "title" : "American Alpine Club",
+        "intro" : "The American Alpine Club (AAC) is a non-profit member organization with more than 24,000 members....",
+        "pages": "/American-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/canadianalpinelogo.png",
+        "title" : "Canadian Alpine Club",
+        "intro" : "More info >>",
+        "pages": "/Canadian-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/indianmountaineeringlogo.jpg",
+        "title" : "Indian Alpine Club",
+        "intro" : "More info >>",
+        "pages": "/Indian-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/italianalpinelogo.png",
+        "title" : "Italian Alpine Club",
+        "intro" : "More info >>",
+        "pages": "/Italian-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/jp.jpeg",
+        "title" : "The Japan Mountaineering Association",
+        "intro" : "The Japan Mountaineering Association is a mountaineering organization in Japan.",
+        "pages": "/The-Japan-Mountaineering-Association"
+    },
+    {
+        "pic":"/clubs/intro/hymalayanclub.jpeg",
+        "title":"The Himalayan Club",
+        "intro":"The Himalayan Club is an organization founded in India in 1928 along the lines of the Alpine Club...",
+        "pages": "/The-Himalayan-Club"
+    },
+    {
+        "pic" : "/clubs/intro/nzac.jpeg" ,
+        "title" : "The New Zealand Alpine Club" ,
+        "intro" : "The New Zealand Alpine Club (NZAC) was founded in 1891 and is one of the oldest alpine clubs in the world....",
+        "pages": "/The-New-Zealand-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/polishmountaineeringlogo.jpg",
+        "title" : "The Polish Mountaineering Association",
+        "intro" : "More info >>",
+        "pages": "/The-Polish-Mountaineering-Association"
+    },
+    {
+        "pic" : "/clubs/intro/slovenianalpinelogo.png",
+        "title" : "Alpine Club Of Slovenia",
+        "intro" : "More info >>",
+        "pages": "/Slovenian-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/swissalpinelogo.jpg",
+        "title" : "Swiss Alpine Club",
+        "intro" : "More info >>",
+        "pages": "/Swiss-Alpine-Club"
+    },
+    {
+        "pic" : "/clubs/intro/untitledkingdomlogo.jpg",
+        "title" : "United Kingdom Alpine Club",
+        "intro" : "More info >>",
+        "pages": "/United-Kingdom-Alpine-Club"
+    }
+]
